@@ -32,7 +32,7 @@
 
 # 📖 الطريقة اليدوية (Manual)
 
-## 1️⃣ اختيار الفيلم وجودة الـ 4K (YTS)
+## 1️⃣ اختيار ملف الفيلم والجودة (YTS)
 <a href="https://yts.unblockninja.st/" target="_blank">🔗 اضغط هنا لاختيار الفيلم</a>
 
 ![1](./yts-(1)/1.png)
@@ -43,7 +43,7 @@
 
 ---
 
-## 2️⃣ تحميل الفيلم (qBittorrent)
+## 2️⃣ تنزيل الفيلم (qBittorrent)
 <a href="https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/" target="_blank">🔗 اضغط هنا لتحميل qBittorrent</a>
 
 ![1](./qBittorrent-(2)/1.png)
