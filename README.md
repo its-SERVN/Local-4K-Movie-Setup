@@ -8,7 +8,9 @@
 🔗 [اضغط هنا لاختيار الفيلم](https://yts.unblockninja.st/)
 
 1. ![1](./yts-(1)/1.png)
+
 2. ![2](./yts-(1)/2.png)
+
 3. ![3](./yts-(1)/3.png)
 
 ---
@@ -17,10 +19,15 @@
 🔗 [اضغط هنا لتحميل qBittorrent](https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/)
 
 1. ![1](./qBittorrent-(2)/1.png)
+
 2. ![2](./qBittorrent-(2)/2.png)
+
 3. ![3](./qBittorrent-(2)/3.png)
+
 4. ![4](./qBittorrent-(2)/4.png)
+
 5. ![5](./qBittorrent-(2)/5.png)
+
 6. ![6](./qBittorrent-(2)/6.png)
 
 ---
@@ -29,9 +36,13 @@
 🔗 [اضغط هنا لتحميل الترجمة](https://subtitlecat.com/)
 
 1. ![1](./subtitlecat-(3)/1.png)
+
 2. ![2](./subtitlecat-(3)/2.png)
+
 3. ![3](./subtitlecat-(3)/3.png)
+
 4. ![4](./subtitlecat-(3)/4.png)
+
 5. ![5](./subtitlecat-(3)/5.png)
 
 ---
@@ -40,6 +51,7 @@
 🔗 [اضغط هنا لتحميل VLC](https://www.videolan.org/vlc/)
 
 1. ![1](./vlc-(4)/1.png)
+
 2. ![2](./vlc-(4)/2.png)
 
 ---
