@@ -5,15 +5,17 @@
 ---
 
 ## 1️⃣ اختيار الفيلم وجودة الـ 4K (YTS)
-https://yts.unblockninja.st/
+🔗 [اضغط هنا للتحميل (الموقع)](https://yts.unblockninja.st/)
+
 ![البحث](./yts-(1)/1.png)
 ![تحديد الجودة](./yts-(1)/2.png)
 ![تحميل التورنت](./yts-(1)/3.png)
 
 ---
 
-## 2️⃣تحميل الفيلم (qBittorrent)
-نستخدم برنامج qBittorrent https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/
+## 2️⃣ تحميل الفيلم (qBittorrent)
+🔗 [اضغط هنا للتحميل (البرنامج)](https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/)
+
 ![واجهة البرنامج](./qBittorrent-(2)/1.png)
 ![إعداد التحميل](./qBittorrent-(2)/2.png)
 ![تحديد الملفات](./qBittorrent-(2)/3.png)
@@ -24,7 +26,8 @@ https://yts.unblockninja.st/
 ---
 
 ## 3️⃣ تحميل الترجمة (SubtitleCat)
-https://subtitlecat.com/
+🔗 [اضغط هنا للتحميل (الترجمة)](https://subtitlecat.com/)
+
 ![بحث الترجمة](./subtitlecat-(3)/1.png)
 ![اختيار اللغة](./subtitlecat-(3)/2.png)
 ![تطابق النسخة](./subtitlecat-(3)/3.png)
@@ -34,8 +37,10 @@ https://subtitlecat.com/
 ---
 
 ## 4️⃣ للمشاهدة (VLC)
-https://www.videolan.org/vlc/
+🔗 [اضغط هنا للتحميل (المشغل)](https://www.videolan.org/vlc/)
+
 ![تشغيل الفيلم](./vlc-(4)/1.png)
 ![تركيب الترجمة](./vlc-(4)/2.png)
 
+---
 **تم إعداد هذا الدليل لتوثيق أفضل بيئة مشاهدة محلية.**
